@@ -1,0 +1,3 @@
+/mnt/c/Users/artem/workspace/Timp3/formatter_lib/_build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/artem/workspace/Timp3/formatter_lib/_build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/artem/workspace/Timp3/formatter_lib/_build/CMakeFiles/formatter.dir

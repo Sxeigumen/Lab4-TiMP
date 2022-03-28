@@ -1,0 +1,11 @@
+/mnt/c/Users/artem/workspace/Timp3/hello_world/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/artem/workspace/Timp3/hello_world/CMakeFiles/edit_cache.dir
+/mnt/c/Users/artem/workspace/Timp3/hello_world/formatter_lib/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/artem/workspace/Timp3/hello_world/formatter_lib/CMakeFiles/edit_cache.dir
+/mnt/c/Users/artem/workspace/Timp3/hello_world/formatter_lib/CMakeFiles/formatter.dir
+/mnt/c/Users/artem/workspace/Timp3/hello_world/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/artem/workspace/Timp3/hello_world/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/mnt/c/Users/artem/workspace/Timp3/hello_world/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/mnt/c/Users/artem/workspace/Timp3/hello_world/hello_world_application/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/artem/workspace/Timp3/hello_world/hello_world_application/CMakeFiles/edit_cache.dir
+/mnt/c/Users/artem/workspace/Timp3/hello_world/hello_world_application/CMakeFiles/hello_world.dir
