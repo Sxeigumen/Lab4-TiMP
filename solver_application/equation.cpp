@@ -3,13 +3,13 @@
 #include "formatter_ex.h"
 #include "solver.h"
 
-int main()
+int main(int argc, char* argv[])
 {
-    float a = 1;
-    float b = -5;
-    float c = 6;
+    float a = int(*argv[1]) - 48;
+    float b = int(*argv[2]) - 48;
+    float c = int(*argv[3]) - 48;
 
-    //std::cin >> a >> b >> c;
+    std::cin >> a >> b >> c;
 
     float x1 = 0;
     float x2 = 0;
