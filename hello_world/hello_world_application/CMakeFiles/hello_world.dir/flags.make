@@ -6,5 +6,5 @@ CXX_FLAGS =   -std=gnu++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/mnt/c/Users/artem/workspace/Timp3/formatter_ex_lib 
+CXX_INCLUDES = -I/mnt/c/Users/artem/workspace/Timp4/hello_world_application/../formatter_ex_lib -I/mnt/c/Users/artem/workspace/Timp4/formatter_ex_lib/../formatter_lib 
 

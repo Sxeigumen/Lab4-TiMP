@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/c/Users/artem/workspace/Timp3
+# Install script for directory: /mnt/c/Users/artem/workspace/Timp4
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,17 +39,17 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/Users/artem/workspace/Timp3/hello_world/formatter_lib/cmake_install.cmake")
+  include("/mnt/c/Users/artem/workspace/Timp4/hello_world/formatter_lib/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/Users/artem/workspace/Timp3/hello_world/formatter_ex_lib/cmake_install.cmake")
+  include("/mnt/c/Users/artem/workspace/Timp4/hello_world/formatter_ex_lib/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/c/Users/artem/workspace/Timp3/hello_world/hello_world_application/cmake_install.cmake")
+  include("/mnt/c/Users/artem/workspace/Timp4/hello_world/hello_world_application/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -60,5 +60,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/mnt/c/Users/artem/workspace/Timp3/hello_world/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/mnt/c/Users/artem/workspace/Timp4/hello_world/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

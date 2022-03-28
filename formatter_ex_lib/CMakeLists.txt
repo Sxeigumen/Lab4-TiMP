@@ -6,5 +6,5 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_library(formatter_ex STATIC formatter_ex.cpp formatter_ex.h)
 
-include_directories(/mnt/c/Users/artem/workspace/Timp3/formatter_lib)
+target_include_directories(formatter_ex PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/../formatter_lib)
 target_link_libraries(formatter_ex formatter)
