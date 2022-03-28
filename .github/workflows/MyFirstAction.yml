@@ -31,10 +31,10 @@ jobs:
          cmake -H. -B_build
          cmake --build _build 
          
-      - name: solve_lib
+      - name: solver_lib
         shell: bash
         run: |
-          cd solve_lib
+          cd solver_lib
           cmake -H. -B_build
           cmake --build _build
       
