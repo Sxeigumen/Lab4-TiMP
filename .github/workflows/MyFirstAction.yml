@@ -25,7 +25,7 @@ jobs:
       - name: formatter_ex_lib
         shell: bash
         run: |
-         cd formatter_lib
+         cd formatter_ex_lib
          cmake -H. -B_build
          cmake --build _build 
          
